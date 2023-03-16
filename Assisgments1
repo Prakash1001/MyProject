@@ -1,0 +1,208 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Developer</title>
+    
+
+</head>
+<body>
+    <h1>Web Developer</h1>
+    <h2>Web Developer</h2>
+    <h3>Web Developer</h3>
+    <h4>Web Developer</h4>
+    <h5>Web Developer</h5>
+    <h6>Web Developer</h6>
+    <hr>
+    <p><b>Lorem Ipisum</b> s simply <mark>dummy text</mark> of the printing and typesetting industry. 
+        <small>Lorem Ipsum</small> has been the industry's <i>standard dummy text</i> ever since the 1500s, 
+        when an <ins>unknown printer</ins> took a <del>galley of type</del> and scrambled it to make a type
+        specimen book.
+</p>
+<hr>
+<p>2<sup>5</sup> = 32
+water = H<sub>2</sub>O</p>
+<p>p<sup>3</sup>+q <sup>3</sup>+r <sup>3</sup>+3pqr
+
+</p>
+<br>
+<hr>
+<p>Where can I get some?</p>
+<blockquote>There are many variations of passages of Lorem Ipsum available, but the
+ majority have suffered alteration in some form, by injected humour, or randomised 
+ words which don't look even slightly believable.
+
+</blockquote>
+<p><abbr title="world wide Web">www</abbr></p>
+<hr>
+<p>Greater than = &gt;</p>
+<br>
+<p>Hello , &nbsp;&nbsp;&nbsp;World</p>
+<img src="1.jpg" alt="Image Not found" height="250" width="250">
+<br>
+<hr>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Language</th>
+        <th>Year</th>
+    </tr>
+
+    <tr>
+        <td>DaUlAt</td>
+        <td>Python</td>
+        <td>1989</td>
+    </tr>
+
+    <tr>
+        <td>DaUlAt</td>
+        <td>JAva</td>
+        <td>1991</td>
+    </tr>
+
+    <tr>
+        <td>DaUlAt</td>
+        <td>C</td>
+        <td>1972</td>
+    </tr>
+</table>
+<br><br>
+<hr><hr>
+<table border="3">
+    <tr>
+        <th>Name</th>
+        <th colspan="3">Skills</th>
+    </tr>
+    <tr>
+        <td>James</td>
+        <td>C</td>
+        <td>JAva</td>
+        <td>Html</td>
+    </tr>
+    <tr>
+        <td>Guido</td>
+        <td>C++</td>
+        <td>Python</td>
+        <td>PHP</td>
+    </tr>
+</table>
+<br><br><br>
+<hr><hr><hr>
+<table border="2">
+    <tr>
+        <th>Name</th>
+        <th>Companies</th>
+    </tr>
+    <tr>
+        <td rowspan="3">James</td>
+        <td>Sun Microsystem</td>
+    </tr>
+    <tr>
+        <td>Oracle</td>
+    </tr>
+    <tr>
+        <td>Liquid Robotics</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Guido</td>
+        <td>Google</td>
+    </tr>
+    <tr>
+        <td>Dropbox</td>
+    </tr>
+    <tr>
+        <td>Microsoft</td>
+    </tr>
+</table>
+<br><hr>
+<table border="1">
+    <tr>
+        <th colspan="2">Group-1</th>
+        <th colspan="2" rowspan="2">Points</th>
+        <th colspan="2">Group-2</th>
+        <th colspan="2" rowspan="2">Points</th>
+    </tr>
+    <tr>
+        <th>Team-1</th>
+        <th>Team-2</th>
+        <th>Team-1</th>
+        <th>Team-2</th>
+    </tr>
+    <tr>
+        <td>Anthony</td>
+        <td>Jackfrags</td>
+        <td>5</td>
+        <td>3</td>
+        <td>Lirik</td>
+        <td>sumit</td>
+        <td>5</td>
+        <td>4</td>
+
+    </tr>
+    <tr>
+        <td>DrDisRespect</td>
+        <td>Minja</td>
+        <td>5</td>
+        <td>4</td>
+        <td>shround</td>
+        <td>Techniques</td>
+        <td>6</td>
+        <td>3</td>
+
+    </tr>
+</table>
+<br><br><br>
+<hr><hr><hr>
+<h1>Coffe-Ingredients</h1>
+<ul>
+    <li>Milk</li>
+    <li>Water</li>
+    <li>Coffe Powder</li>
+    <li>Sugar</li>
+</ul>
+<br><br>
+<h2>Steps to preapare coffe</h2>
+<ol>
+    <li>Heat the Milk</li>
+    <li>Add Coffe Powder</li>
+    <li>Add Sugar</li>
+    <li>Water If Required</li>
+</ol>
+<br><br>
+<h1>Common Web development terminologies</h1>
+<dl>
+    <dt>WWW</dt>
+    <dd>World Wide Web</dd>
+
+    <dt>HTML</dt>
+    <dd>Hyper text markup Language</dd>
+</dl>
+<br><br><br>
+<hr>
+<a href="https://www.instagram.com/"> <img src="insta.jpg" alt=""></a>
+<hr><hr><hr>
+<ul>
+    <li>Java</li>
+    <ol>
+        <li>Core Java</li>
+        <li>Advanced Java</li>
+        <li>J2EE</li>
+    </ol>
+    <li>Python</li>
+    <ol>
+        <li>Core Python</li>
+        <li>Advance Python</li>
+    </ol>
+    <li>C#</li>
+    <ol>
+        <li>C# Core</li>
+        <li>Net Myc</li>
+    </ol>
+</ul>
+
+
+</body>
+</html>
