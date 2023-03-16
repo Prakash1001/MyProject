@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+   <h1>Course Registration Form</h1>
+ <form action="">
+    <fieldset>
+        <legend>Personal Details</legend>
+        <table>
+            <tr><td><label>First Name:</label></td><td><input type="text" name="FN" placeholder="Ex:raj" size="18" maxlength="10"></td></tr>
+         <tr><td><label>Surname:</label></td><td><input type="text" name="LN" placeholder="Ex:Singh" size="18"></td></tr>
+         <tr><td><label>Mobile Number:</label></td><td><input type="tel" name="Mobile" placeholder="987-897-9087" size="18"></td></tr>
+         <tr><td><label>E-mail:</label><td><input type="Email" name="mail" size="18" placeholder="Ex-daulat01@gmail.com"></td></td></tr>
+         <tr><td><label>Password:</label></td><td><input type="Password" name="pwd" size="18" placeholder="min-10 characters"></td></tr>
+         <tr><td><label>Confirm Password:</label><td><input type="Password" name="cmpwd" size="18" placeholder="min-10 characters"></td></td></tr>
+         <tr><td><label>DOB:</label><td> <input type="date" name="dob"></td></td></tr>
+         <tr><td><label>Gender:</label><td><input type="radio" name="gender" value="M">Male <input type="radio" name="grnder" value="F">Female
+            <input type="radio" name="gender" value="C">Custom</td></td></tr>
+         <tr><td><label>Select Country:</label><td><select name="Country">
+            <option value="INDIA">INDIA</option>
+            <option value="USA">USA</option>
+            <option value="CHINA">CHINA</option>
+      </select>
+         </select></td></td></tr>   
+         <tr><td><label>Upload Picture:</label><td><input type="file" name="pic"><br></td></td></tr>
+         <tr><td><input type="reset"></td></tr>
+        </table>
+       
+   </fieldset>
+    
+    <fieldset>
+        <legend>Course Details</legend>
+        <label>Select Course</label>
+        <select>
+            <option value="PFS">Python Full Stack</option>
+            <option value="JFS">Java Full Stack</option>
+            <option value="PDS">Python For Data Science</option>
+        </select>
+        <label>Delivery Mode</label>
+        <input type="checkbox" name="model" value="ON">ONLINE
+        <input type="checkbox" name="mode2" value="OFF">OFFLINE
+        <label>Comments</label><br>
+        <textarea rows="4" cols="40"></textarea>
+    </fieldset>
+    <img src="submit.jpg" height="75" width="150" type="input">
+   
+</form>
+
+
+</body>
+</html>
