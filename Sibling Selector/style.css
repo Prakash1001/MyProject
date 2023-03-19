@@ -1,0 +1,39 @@
+
+/* Sibling selector */
+
+/* color the ordered list*/
+/*ol{
+    background-color: orange;
+}*/
+
+/*Color all the Unordered List*/
+/* ul{
+    background-color: orange;
+} */
+
+/*Color all li except first li inside the ul*/
+/* .first ~ li{
+    background-color: orange;
+} */
+
+
+/* Color only the Second Li in ul*/
+/* .first + li{
+    background-color: orange;
+} */
+
+
+/*color all li after the second li in ul*/
+/* .first + li ~ li{
+    background-color: orange;
+} */
+
+/*color only the first ul*/
+/* ol + h3 + ul{
+    background-color: orange;
+} */
+
+/* color only the first two li in every ul */
+.first,.first + li {
+    background-color: orange;
+}
